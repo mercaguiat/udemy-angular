@@ -1,0 +1,24 @@
+# Logs
+node_modules/
+dist/
+/dist/
+/e2e/
+
+# Environment variables
+.env
+.env.*.local
+
+# Angular CLI
+.angular
+
+# IDE files
+.idea/
+.vscode/
+.cache/
+.vscode-server/
+.vscode-insiders/
+.vscode-insiders-server/
+
+# OS files
+.DS_Store
+Thumbs.db
